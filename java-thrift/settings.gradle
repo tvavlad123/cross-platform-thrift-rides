@@ -1,0 +1,6 @@
+rootProject.name = 'turism'
+include 'persistance'
+include 'service'
+include 'server'
+include 'ThriftObjects'
+
